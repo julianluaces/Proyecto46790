@@ -281,6 +281,12 @@
 .footer .icon4 {
   animation-delay: 2s;
 }
+
+.terminos__copyright {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
 @keyframes tilt-in-left-2 {
   0% {
     transform: rotateX(30deg) translateX(-300px) skewX(30deg);
