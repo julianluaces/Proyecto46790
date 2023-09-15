@@ -502,6 +502,7 @@
     background-color: #f8f9fa;
     width: -moz-min-content;
     width: min-content;
+    margin: 4px;
   }
   .body .footer > a {
     transition: 0.5s;
